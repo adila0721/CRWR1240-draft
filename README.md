@@ -1,2 +1,6 @@
 # CRWR1240-docs
-Drafts and posts for CRWR 1240
+This is the repository for drafts and posts for Creative Writing 1240.
+
+The public-facing website for this course is [here](http://crwr1240.netlify.com/).
+
+
