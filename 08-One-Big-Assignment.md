@@ -73,6 +73,8 @@ The default line wrapping method on GitHub is `soft wrap.` That's probably the b
 
 Every time you make a commit that includes a comment in the top and bottom box, and if that commit reflects new or revised material (more than a single change), you will receive one point. Please make at least 25 commits; doing so will earn you 25 points, which is the maximum number of points earned for this portion of the course. You may find that you make more than 25 commits; that's fine. Make as many as you like. You will not earn any more points, but you may find that you track your document better. (Your instructor makes a commit about every ten minutes when working on a document, so that's about one commit for every few sentences.)
 
+You can view your commit history and many other details about your activity inside your repository (as can your instructor) by clicking the `Insights` tab, then `Graphs`.
+
 Normally you will commit to the `master` branch. You will see this option whenever you make a commit. You will also see another option, to create a new branch and make a `pull request`. We won't be using that feature, so you can safely ignore it. (But if you are curious, you can read the GitHub documentation for [branching](https://guides.github.com/introduction/flow/).)
 
 Whenever you have finished working on your document for the day, be sure to commit your final changes. Whenever you are ready to work again, open the url of your draft, open the editing screen, and continue along.
@@ -90,9 +92,11 @@ The main advantage of using GitHub is that it preserves the history of your docu
 To give you a sense of how GitHub tracks activity on documents (files), you can look at the account page for any user. Your instructor's account page is [here](https://github.com/rosslaird).
 
 ### Commit Often
+
 It helps. The more often you commit (say, after every paragraph or so), the easier it is to use GitHub's tools to traverse the history of your document. Remember that you should make at least 25 commits to your document in order to earn 25 points for this portion of the course.
 
 ### Submitting Your Document for Review
+
 You do not need to submit anything or to signal that your draft is ready for review. Just keep working and committing (saving). Ross will review your draft in the week following the due dates above and will give you feedback on GitHub directly.
 
 ---
