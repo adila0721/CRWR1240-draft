@@ -10,9 +10,17 @@ Please read Stephen King's book _On Writing_ and Robert Pirsig's _Zen and the Ar
 
 Please try to learn as much as you can about creativity, writing, writing online. Here are a few suggestions for resources to explore:
 
-[Steps to Better Writing](http://crwr1240.netlify.com/creativity/2017/08/15/steps-to-better-writing/)
+[Starting to Write](http://crwr1200.netlify.com/creativity/writing/2017/08/12/starting-to-write/)
 
-[Starting to Write](http://crwr1240.netlify.com/creativity/2017/08/12/starting-to-write/)
+[Steps to Better Writing](http://crwr1200.netlify.com/creativity/writing/2017/08/15/steps-to-better-writing/)
+
+[Tips on Tightening](https://crwr1200.netlify.com/creativity/writing/2017/08/15/tips-on-tightening/)
+
+[Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/writing/2017/08/15/sentence-checklist/)
+
+[On Being Focused](https://crwr1200.netlify.com/creativity/writing/2017/07/31/blinking-cursor-blank-page/)
+
+[The Art and Craft of the Personal Essay](https://crwr1200.netlify.com/creativity/writing/2017/07/31/art-and-craft-of-the-personal-essay/)
 
 [Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr1240.netlify.com/) is created with Jekyll)
 
